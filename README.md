@@ -28,7 +28,7 @@ I enjoy working end-to-end, from database and API design through frontend develo
 - 🧠 Currently learning **classical ML**, **Rotary Positional Embeddings** and **LLM architectures**
 - 👥 Looking to collaborate on **full-stack applications that solve real business problems**
 - 🖥️ Portfolio: [portfolio.arxiron.com](https://portfolio.arxiron.com)
-- ✉️ Reach me at [saadchaudhary.dev@gmail.com](mailto:saadchaudhary.dev@gmail.com)
+- ✉️ Reach me at [saadchaudhary.dev@gmail.com](mailto:saadchaudhary.dev@gmail.com) or [saad@arxiron.com](mailto:saad@arxiron.com)
 - 💬 Ask me about anything. I know more than I could say here, but that's a secret.
 
 ## Tech Stack
