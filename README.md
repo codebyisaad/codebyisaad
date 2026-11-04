@@ -4,15 +4,11 @@
 
 **aka Zaidan Chaudhary**
 
-<a href="https://portfolio.arxiron.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=720&lines=Senior+Staff+Engineer+%2F+AI;Full-Stack+%C2%B7+Python+%C2%B7+Rust+%C2%B7+Rails+%C2%B7+TypeScript;NLP+%C2%B7+Transformers+%C2%B7+RAG" alt="Senior Staff Engineer / AI" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=720&lines=Senior+Staff+Engineer+%2F+AI;Full-Stack+%C2%B7+Python+%C2%B7+Rust+%C2%B7+Rails+%C2%B7+TypeScript;NLP+%C2%B7+Transformers+%C2%B7+RAG" alt="Senior Staff Engineer / AI" />
 
 <p>
-  <a href="https://portfolio.arxiron.com"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/saadchaudhary66/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:saadchaudhary.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://arxiron.com"><img src="https://img.shields.io/badge/Arxiron-1C1917?style=for-the-badge&logo=rocket&logoColor=white" alt="Arxiron" /></a>
 </p>
 
 </div>
@@ -24,11 +20,9 @@ I'm a Senior Software Engineer with over six years of experience building full-s
 I enjoy working end-to-end, from database and API design through frontend development, Docker, AWS, CI/CD and production deployment.
 
 - 🌍 Based in **Lahore, Pakistan**
-- 🚀 Currently building [**Arxiron**](https://arxiron.com), a blood donor platform with real-time tracking, OCR and extensive validation
 - 🧠 Currently learning **classical ML**, **Rotary Positional Embeddings** and **LLM architectures**
 - 👥 Looking to collaborate on **full-stack applications that solve real business problems**
-- 🖥️ Portfolio: [portfolio.arxiron.com](https://portfolio.arxiron.com)
-- ✉️ Reach me at [saadchaudhary.dev@gmail.com](mailto:saadchaudhary.dev@gmail.com) or [saad@arxiron.com](mailto:saad@arxiron.com)
+- ✉️ Reach me at [saadchaudhary.dev@gmail.com](mailto:saadchaudhary.dev@gmail.com)
 - 💬 Ask me about anything. I know more than I could say here, but that's a secret.
 
 ## Tech Stack
